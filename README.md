@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahan
 - 👀 I’m interested in Machine Learning/Deep learning/Microservices
-- 🌱 I’m currently learning Machine Learning/Deep learning/Microservices' Failure/R/
+- 🌱 I’m currently learning Machine Learning/Deep learning/Microservices Failure/Software/R/
 - 💞️ I’m looking to collaborate on Faculties and students
 
 
